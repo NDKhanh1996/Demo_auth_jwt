@@ -1,0 +1,10 @@
+{
+  "username": "testUser10",
+  "email": "10@gmail.com",
+  "password": "$2b$10$6mW1Cp.56FI.EFmiEodeZu/jNbRjqiPB7o4Gy0fJl1GSFeU67DLci",
+  "admin": false,
+  "_id": "64cf7ec7601ee13467f1e2eb",
+  "createdAt": "2023-08-06T11:06:47.414Z",
+  "updatedAt": "2023-08-06T11:06:47.414Z",
+  "__v": 0
+}

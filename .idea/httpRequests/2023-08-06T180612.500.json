@@ -1,0 +1,10 @@
+{
+  "index": 0,
+  "code": 11000,
+  "keyPattern": {
+    "email": 1
+  },
+  "keyValue": {
+    "email": "3@gmail.com"
+  }
+}

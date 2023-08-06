@@ -1,0 +1,21 @@
+{
+  "errors": {
+    "username": {
+      "name": "ValidatorError",
+      "message": "Path `username` (`1`) is shorter than the minimum allowed length (6).",
+      "properties": {
+        "message": "Path `username` (`1`) is shorter than the minimum allowed length (6).",
+        "type": "minlength",
+        "minlength": 6,
+        "path": "username",
+        "value": "1"
+      },
+      "kind": "minlength",
+      "path": "username",
+      "value": "1"
+    }
+  },
+  "_message": "User validation failed",
+  "name": "ValidationError",
+  "message": "User validation failed: username: Path `username` (`1`) is shorter than the minimum allowed length (6)."
+}

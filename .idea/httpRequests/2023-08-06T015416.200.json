@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "64ce4ea9df51abb09bf53a52",
+    "username": "testUser",
+    "email": "testUser@gmail.com",
+    "password": "$2b$10$3wAzdBM3kvA4IiVRzBGYS..pszpre/lGNhwEoEJ7iZVlbmaiRi6Qa",
+    "admin": true,
+    "createdAt": "2023-08-05T13:29:13.543Z",
+    "updatedAt": "2023-08-05T13:29:13.543Z",
+    "__v": 0
+  },
+  {
+    "_id": "64ce6cb30ed4b1e47fa47dce",
+    "username": "testUser1",
+    "email": "testUser1@gmail.com",
+    "password": "$2b$10$HSMUl6S2XJoS0zq72gzHp.bX9DlgNQdiov9NZVJKrpq.9kDvtV0T2",
+    "admin": false,
+    "createdAt": "2023-08-05T15:37:23.611Z",
+    "updatedAt": "2023-08-05T15:37:23.611Z",
+    "__v": 0
+  }
+]

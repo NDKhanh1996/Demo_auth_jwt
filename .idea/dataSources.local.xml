@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-232.8660.143">
+    <data-source name="@ndkdb.9dbux9y.mongodb.net" uuid="520d881a-af18-4326-a01a-580c44c83534">
+      <database-info product="Mongo DB" version="6.0.8" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.18" dbms="MONGO" exact-version="6.0.8" exact-driver-version="1.18" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>Demo_auth_token</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="test" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

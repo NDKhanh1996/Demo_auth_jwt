@@ -1,0 +1,5 @@
+mongodb+srv://Demo_auth_token:<password>@ndkdb.9dbux9y.mongodb.net/
+user: Demo_auth_token
+pass: 1
+
+npm i express mongoose cors dotenv bcrypt cookie-parser jsonwebtoken
